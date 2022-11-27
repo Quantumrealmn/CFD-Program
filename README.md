@@ -15,10 +15,10 @@ setting the particle count more than what your GPU can handle can cause the foll
 - Particles speed not coordinating with colour
 
 Minimum Requirements:
--Blender Version 3.0
--GTX 1050
--Intel i5 8th-gen/Ryzen 5 3600
--8GB RAM
+- Blender Version 3.0
+- GTX 1050
+- Intel i5 8th-gen/Ryzen 5 3600
+- 8GB RAM
 
 You can refer my tutorial video through this link : https://youtu.be/777i4VFTtw4
 
