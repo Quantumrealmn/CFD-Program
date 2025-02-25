@@ -25,9 +25,13 @@ You can refer my tutorial video through this link : https://youtu.be/777i4VFTtw4
 or read the instructions below
 
 HOW TO SETUP A MODEL:
+
 Step 1:Import a model of your choice
+
 Step 2:Turn on collision in the Physics properties section
+
 Step 3:Set the Stickiness to 2.000
+
 Step 4:Set Friction to desired amount (Reference given below)
 
 Friction Value  |  Item
